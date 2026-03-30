@@ -30,18 +30,13 @@ Set up and updated my profiles on platforms GitHub, LinkedIn, and Kaggle.
 Google Form: https://forms.gle/tAF9U6oct67JZehb8 
 
 ### Task 4 – Email Etiquette  
-- Email 1:
-- Email 2:
-- Created a social media do's and don'ts checklist 
+Write two professional emails and created a social media do's and don'ts checklist 
 
 ### Task 5 – Cybercrime  
 Worked on a case study (WannaCry Ransomeware Attack - 2017) and made a basic prevention checklist on how students can stay safe online.
 
 ---
-## What I Learned
-- How to present myself online  
-- Basics of professional communication  
-- Importance of online safety  
-- Using platforms like GitHub and Google Forms  
 
----
+## Conclusion
+
+This project helped me understand digital literacy, improve my online presence, and learn safe and professional use of digital tools.
